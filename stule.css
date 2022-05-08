@@ -1,0 +1,9 @@
+body {
+    background-image: url(ret.jpeg);
+    background-size: cover; 
+    position: center;
+}
+.box ul li a{
+    font-size: 20px;
+}
+
